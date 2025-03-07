@@ -16,12 +16,12 @@ Make sure the folders data/ and models/ exist for saving demonstration data and 
 
 
 ## Project Structure
-config.py: Hyperparameters and file paths.
-data_collection.py: Script for collecting expert demonstration data.
-models.py: Neural network model definition.
-training.py: Script for training the imitation learning model.
-evaluation.py: Script for evaluating the trained model.
-main.py: Command-line interface for running the project.
+- config.py: Hyperparameters and file paths.
+- data_collection.py: Script for collecting expert demonstration data.
+- models.py: Neural network model definition.
+- training.py: Script for training the imitation learning model.
+- evaluation.py: Script for evaluating the trained model.
+- main.py: Command-line interface for running the project.
 
 
 ---
